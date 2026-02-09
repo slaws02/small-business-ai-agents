@@ -163,35 +163,6 @@ It emphasizes outcome-aligned AI design rather than novelty.
 
 ---
 
-# 🎤 Demo Scripts Included
-
-See `/demo-scripts` for:
-
-- 2-minute live demo walkthrough
-- Recruiter pitch version
-- Executive pitch version
-
----
-
-# 🔍 Skills Demonstrated
-
-- Agent-style prompt engineering
-- Structured output design
-- Domain adaptation (ecommerce & small business)
-- Guardrail construction
-- Practical AI workflow modeling
-- Portfolio-ready documentation
-
----
-
-# 📌 Intended Audience
-
-- AI leadership reviewers
-- Recruiters and hiring managers
-- Consulting clients
-- Small business operators
-- Prompt engineering learners
-
 ---
 
 # License / Usage
