@@ -1,0 +1,58 @@
+# Small Business & Ecommerce AI Agents
+
+A practical AI agent portfolio designed for small businesses and ecommerce sellers.
+
+These agents focus on real business outcomes:
+- Conversion and SEO improvements
+- Margin protection and pricing decisions
+- Bundles and offers to increase AOV
+- Review intelligence (product + marketing insights)
+- Social content systems for consistent posting
+- Customer service replies with brand voice
+
+Each agent folder includes:
+- `agent_prompt.md` (the agent spec / prompt)
+- `demo_input.md` (copy/paste test input)
+- `demo_output.md` (example output format)
+
+## Agents
+
+1. **Listing Optimizer Agent**
+   - Turns raw product details into SEO + conversion optimized listings (title, bullets, description, tags, ad copy)
+
+2. **Margin Protection Agent**
+   - Calculates true margin, break-even, price floor, and safe pricing guidance
+
+3. **Bundle & Offer Builder Agent**
+   - Creates bundles, upsells, promos, and clearance strategies with margin awareness
+
+4. **Review Insight Agent**
+   - Extracts themes from reviews: praises, complaints, improvements, proof phrases, risks
+
+5. **Social Content System Agent**
+   - Generates a 30-day calendar + platform-ready content (Pinterest/IG) with hooks and CTAs
+
+6. **Customer Reply Agent**
+   - Produces helpful, on-brand replies for common support scenarios (shipping, refunds, custom requests)
+
+## How to Use
+
+1. Open any `agent_prompt.md`
+2. Paste the prompt into your AI tool (ChatGPT / Copilot / etc.)
+3. Paste the corresponding `demo_input.md`
+4. Compare to `demo_output.md`
+
+## Skills Demonstrated
+
+- Structured prompt design and output schemas
+- Business outcome alignment (revenue, margin, CX)
+- Practical automation patterns for small teams
+- Clear guardrails and escalation paths
+- Reusable agent frameworks
+
+## Demo Scripts
+
+See `/demo-scripts` for:
+- 2-minute demo (live walkthrough)
+- Recruiter pitch
+- Executive pitch
